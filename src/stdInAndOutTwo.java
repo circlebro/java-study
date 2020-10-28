@@ -9,7 +9,7 @@ public class stdInAndOutTwo {
         scan.nextLine();
         String s = scan.nextLine();
 
-        // Write your code here.
+        // Write your code here. hi
 
         System.out.println("String: " + s);
         System.out.println("Double: " + d);
