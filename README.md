@@ -2,4 +2,4 @@
 
 간단한 예제
 
-Java 2
+Hacker Lank Study
